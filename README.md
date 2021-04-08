@@ -1,0 +1,4 @@
+# BOLD
+
+THIS IS A BOLD BOT'S OFFICIAL GITHUB PAGE!
+Please read the License!
